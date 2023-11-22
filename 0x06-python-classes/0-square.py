@@ -2,6 +2,6 @@
 "0-square.py define"
 
 class Square:
-    """Class Samu
+    """Class Square that defines a square.
     """
     pass
