@@ -35,9 +35,12 @@ class Rectangle:
 
     @width.setter
     def width(self, value):
-        """ method that defines the width   
+        """ method that defines the width
+
+
         Args:
             value: width
+
         Raises:
             TypeError: if width is not an integer
             ValueError: if width is less than zero
